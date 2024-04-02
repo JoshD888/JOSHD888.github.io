@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ddfb7cb-6db1-479c-8f94-1f0732e3e0c2" name="Changes" comment="Quick example change">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="1ddfb7cb-6db1-479c-8f94-1f0732e3e0c2" name="Changes" comment="Change via IntelliJ">
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <updated>1712096802232</updated>
       <workItem from="1712096803403" duration="226000" />
       <workItem from="1712097046099" duration="1293000" />
-      <workItem from="1712098345228" duration="621000" />
+      <workItem from="1712098345228" duration="963000" />
     </task>
     <task id="LOCAL-00001" summary="Quick example change">
       <created>1712098406147</created>
@@ -63,7 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1712098406147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change via IntelliJ">
+      <created>1712098970662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712098970662</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change via IntelliJ">
+      <created>1712098982730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712098982730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Quick example change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quick example change" />
+    <MESSAGE value="Change via IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change via IntelliJ" />
   </component>
 </project>
