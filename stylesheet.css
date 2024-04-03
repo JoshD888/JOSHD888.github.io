@@ -53,10 +53,10 @@ h1, h2, h3 {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #B0D7FF;
+    background-color: #3D587A;
     color: #e4e4e4;
   }
   img {
-    filter: grayscale(70%);
+    filter: grayscale(30%);
   }
 }
