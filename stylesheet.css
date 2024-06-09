@@ -57,6 +57,6 @@ h1, h2, h3 {
     color: #e4e4e4;
   }
   img {
-    filter: grayscale(30%);
+    filter: grayscale(60%);
   }
 }
