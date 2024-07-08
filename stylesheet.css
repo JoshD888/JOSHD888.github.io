@@ -15,7 +15,6 @@ body {
   color: #7CABF5;
   padding: 0 10px;
   font-family: 'Georgia', sans-serif;
-  text-align: center;
 }
 
 h1, h2, h3 {
@@ -33,7 +32,7 @@ h1, h2, h3 {
 }
 
 .bio {
-  float: "center";
+  text-align: center;
 }
 
 .profile {
